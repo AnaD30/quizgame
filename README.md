@@ -1,32 +1,30 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Welcome to the wonderful world of GAMING!
 
-Welcome,
+# Project Description
 
-This is the Code Institute student template for deploying your third portfolio project, the Python command-line project. The last update to this file was: **May 14, 2024**
+ Welcome to the wonderful world of GAMING!The name of the game is Quiz Game. The games that I am showing to the user is a quiz game. The are two quiz games. Both contain up to five questions about general and some not that commen questions. It provides a small brain exercise for the user also a small break from life.
+ 
+ ![Screenshot of the game and menu ](images\menu.png)
 
-## Reminders
+## Table of Contents:
 
-- Your code must be placed in the `run.py` file
-- Your dependencies must be placed in the `requirements.txt` file
-- Do not edit any of the other files or your code may not deploy properly
+- menu wit options
+- quiz game one
+- quiz game two 
+- scoreboard
+- messages of encouragement
 
-## Creating the Heroku app
 
-When you create the app, you will need to add two buildpacks from the _Settings_ tab. The ordering is as follows:
+## Troubleshooting
 
-1. `heroku/python`
-2. `heroku/nodejs`
+The game had some initial small mistakes. That i have managed to solve. Mostly related to a spelling mistake.
 
-You must then create a _Config Var_ called `PORT`. Set this to `8000`
+## Credits
 
-If you have credentials, such as in the Love Sandwiches project, you must create another _Config Var_ called `CREDS` and paste the JSON into the value field.
+Most of my material comes from the main Code Institute knowledge, also the blog sites such as Dev, Reddit, GeeksforYou , ..etc. It is also worth to mansion the Youtube . Below are some of the link to the resources.
 
-Connect your GitHub repository and deploy as normal.
+[Youtube chanel: Bro code](https://www.youtube.com/watch?v=zehwgTB0vV8)
 
-## Constraints
+[Dev account: IMRAN KHAN](https://dev.to/khan_me/-the-ultimate-beginners-guide-to-programming-building-a-simple-quiz-game-1l9g)
 
-The deployment terminal is set to 80 columns by 24 rows. That means that each line of text needs to be 80 characters or less otherwise it will be wrapped onto a second line.
-
----
-
-Happy coding!
+[Git repository: Md. Ridoy Hossain](https://github.com/problemsolvewithridoy/Quiz-Game)
